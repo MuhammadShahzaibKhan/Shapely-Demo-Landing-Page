@@ -1,0 +1,171 @@
+*{
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Navbar Style Start */
+
+.nav-logo{
+    font-size: 24px;
+    line-height: 52px;
+    color: #666;
+    font-weight: 300;
+}
+
+.navbar a{
+    font-size: 13px;
+    letter-spacing: -1px;
+    color: #4c4c4c;
+}
+
+.navbar a:hover{
+    color: #745cf9 !important;
+}
+
+.navbar li{
+    margin-right: 32px;
+}
+
+.search-icon a{
+    color: #3a52bf !important;
+    font-size: 14px !important;
+}
+
+/* Navbar Style End */
+
+/* Section 1 Style Start */
+
+.sec1-main{
+    background-image: url('https://149842022.v2.pressablecdn.com/wp-content/uploads/sites/59/2016/03/photo-1443527216320-7e744084f5a7-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+    min-height: 100vh;
+}
+
+.btn{
+    border: 2px solid #745cf9 !important;
+    padding: 0 26px !important;
+    min-width: 150px !important;
+    line-height: 36px !important;
+    font-size: 12px !important;
+}
+
+.btn-lg{
+    line-height: 24px !important;
+    min-width: 200px !important;
+    padding: 13px 0 !important;
+    border-radius: 0;
+}
+
+.btn-purple{
+    color: #fff !important;
+    background: #745cf9 !important;
+}
+
+.btn-white{
+    color: #fff !important;
+    border-color: #fff !important;
+}
+
+.btn-white:hover{
+    background-color: #fff;
+    color: #000 !important;
+}
+
+/* Section 1 Style End */
+
+/* Section 2 Style Start */
+
+.sec2-txt{
+    text-align: justify;
+    font-size: 14px;
+    color: #8c979e;
+    line-height: 24px;
+}
+
+/* Section 2 Style End */
+
+/* Section 3 style Start */
+
+.sec3-main{
+    background-color: #f5f5f5;
+}
+
+/* Section 3 style End */
+
+/* Section 4 Style Start */
+
+.sec4-main{
+    background-image: url('https://149842022.v2.pressablecdn.com/wp-content/uploads/sites/59/2016/12/photo-1452723312111-3a7d0db0e024.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 95px 0;
+}
+
+/* Section 4 Style End */
+
+/* Section 5 Style Start */
+
+.sec5-main{
+    background-color: #f5f5f5;
+}
+
+.sec5-txt{
+    font-size: 14px;
+    color: #8c979e;
+    line-height: 24px;
+}
+
+/* Section 5 Style End */
+
+/* Section 6 Style Start */
+
+.sec6-main{
+    background-color: #000;
+}
+
+.sec6-row{
+    margin-right: 0;
+}
+
+/* Section 6 Style End */
+
+/* Section 7 Style Start */
+
+.sec7-main{
+    background-image: url('https://149842022.v2.pressablecdn.com/wp-content/uploads/sites/59/2016/12/photo-1451417379553-15d8e8f49cde.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 96px 0;
+}
+
+.sec7-txt{
+    font-size: 14px;
+}
+
+.sec7-profile img{
+    width: 90px;
+    margin: 10px;
+}
+
+/* Section 7 Style End */
+
+/* Section 8 Style Start */
+
+.sec8-main{
+    background-color: #f5f5f5;
+    padding: 95px 0;
+}
+
+.footer-main{
+    background-color: #0e1015;
+    padding: 70px 0;
+}
+
+/* Section 8 Style End */
